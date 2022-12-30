@@ -6,7 +6,7 @@
   <link href="https://3liana.github.io/atom.xml" rel="self"/>
   
   <link href="https://3liana.github.io/"/>
-  <updated>2022-10-07T08:18:05.581Z</updated>
+  <updated>2022-12-30T10:23:14.778Z</updated>
   <id>https://3liana.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="https://3liana.github.io/2022/12/30/my-first-blog/"/>
+    <id>https://3liana.github.io/2022/12/30/my-first-blog/</id>
+    <published>2022-12-30T10:23:14.000Z</published>
+    <updated>2022-12-30T10:23:14.778Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
