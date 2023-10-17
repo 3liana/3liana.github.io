@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://3liana.github.io/2023/06/16/os-lab6-challenge/</loc>
+    
+    <lastmod>2023-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://3liana.github.io/2023/10/17/%E9%82%AE%E5%B7%AE/</loc>
     
     <lastmod>2023-10-17</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://3liana.github.io/2023/07/09/%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%BC%94%E8%AE%B2(2010)/</loc>
     
     <lastmod>2023-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://3liana.github.io/2023/06/16/os-lab6-challenge/</loc>
-    
-    <lastmod>2023-06-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
